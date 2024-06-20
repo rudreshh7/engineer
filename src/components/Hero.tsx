@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
 
         <div className="hidden md:flex">
-          <Image src={watch} width={300} height={400} />
+          <Image src={watch} width={300} height={400} alt="watch image" />
         </div>
       </div>
       <div className="px-5">
