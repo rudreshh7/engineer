@@ -25,7 +25,7 @@ const Hero = () => {
           <Image src={watch} width={300} height={400} />
         </div>
       </div>
-      <div>
+      <div className="px-5">
         <video autoPlay loop width="100%" height="50%">
           <source src={showcase} />
         </video>
